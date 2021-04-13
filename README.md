@@ -13,3 +13,16 @@ After installing the dependencies, run the server:
 ```
 npm start
 ```
+
+List of possible GET routes:
+http://localhost:PORT_NUMBER/appetizers/
+http://localhost:PORT_NUMBER/appetizers/appetizer_ID
+
+List of possible POST routes:
+http://localhost:PORT_NUMBER/appetizers/
+
+List of possible DELETE routes:
+http://localhost:PORT_NUMBER/appetizers/appetizer_ID
+
+List of possible PATCH routes:
+http://localhost:PORT_NUMBER/appetizers/appetizer_ID
