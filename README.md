@@ -6,3 +6,8 @@ To run the server on your PC or laptop, clone the repo and install the dependenc
 git clone https://github.com/enumcase/food-ordering-app-api.git
 npm install
 ```
+
+After installing the dependencies, run the server:
+```
+npm start
+```
