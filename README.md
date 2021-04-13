@@ -16,6 +16,7 @@ npm start
 
 List of possible GET routes:
 http://localhost:PORT_NUMBER/appetizers/
+
 http://localhost:PORT_NUMBER/appetizers/appetizer_ID
 
 List of possible POST routes:
